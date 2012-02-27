@@ -1,0 +1,5 @@
+How to create bookmarklet: 
+1. Create bookmark in browser
+2. Enter the following code as the URL (feel free to host this js file or use the direct link below):
+ 
+ "javascript:(function(){document.body.appendChild(document.createElement('script')).src='http://50.18.156.223/js/mousepos.js';})();"
